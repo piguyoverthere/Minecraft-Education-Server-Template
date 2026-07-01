@@ -4,5 +4,8 @@ Steps to setup server:
 1. Create new world with simulation distance >4 chunks, and with education edition turned on.
 2. Go to coordinates [under progress].
 3. Set the block offset to x:-20 y:0 z:-20.
-4. Paste the .js file included into the code editor in js mode.
-5. Test the features [coming soon]
+4. Place a structure block at the coordinates above
+5. Load the .mcstructure file by changing the structure block mode to load and pressing load twice cause for some stupid reason bedrock edition is reallly broken and it is being weird
+6. Paste the .js file included into the code editor in js mode.
+7. Test the features [coming soon]
+btw, PLEASE install me and me friend's mod that we made in the repo uncraftable-strawberry-pickaxe which doesnt actually have strawberry pics thing im yapping hahahaha
