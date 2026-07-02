@@ -1,5 +1,6 @@
 # Minecraft-Education-Server-Template
-A repository containing all the vanilla commands and procedures to setup a server lobby. Currently under progress
+A repository containing all the vanilla commands and procedures to setup a server lobby. Currently under progress.
+Feel free to remix, you can credit tho
 Steps to setup server:
 1. Create new world with simulation distance >4 chunks, and with education edition turned on.
 2. Go to coordinates [under progress].
