@@ -8,4 +8,4 @@ Steps to setup server:
 5. Load the .mcstructure file by changing the structure block mode to load and pressing load twice cause for some stupid reason bedrock edition is reallly broken and it is being weird
 6. Paste the .js file included into the code editor in js mode.
 7. Test the features [coming soon]
-btw, PLEASE install me and me friend's mod that we made in the repo uncraftable-strawberry-pickaxe which doesnt actually have strawberry pics thing im yapping hahahaha
+read instructions.js
