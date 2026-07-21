@@ -5,5 +5,5 @@ Commands:
 "!load <structure_name>": under progress
 "!shop": warp to shop
 "!afk": warp to afk spot
-"save": save location to warp to using "!base"
+"!save": save location to warp to using "!base"
 */
