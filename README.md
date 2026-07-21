@@ -10,3 +10,4 @@ Steps to setup server:
 6. Paste the .js file included into the code editor in js mode.
 7. Test the features [coming soon]
 read instructions.js
+btw, i know i could have made the js cleaner with functions but il do that later
